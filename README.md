@@ -8,3 +8,9 @@ The interface was designed with Pyqt5 and Deep learning model was developed with
 Basiclly, 18 question is asked and model try to detect diseas based on databeses which was created by collection of Kaggle and Turkey Healty Minister databases.
 
 Diseas are Covid-19, flu, herniated disc, neck hernia, infection and so on.
+
+References:
+
+Machine learning with Python - BTK Akademi
+Tensorflow for Data Analysis - BTK Akademi
+Keaggle.com/healthDiseas
